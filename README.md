@@ -237,15 +237,15 @@ HR-Employee-Attrition-Analysis/
 │   └── project_documentation.md
 │
 └── README.md
-
-Limitations
+```
+## Limitations
 
 This analysis identifies associations between employee characteristics and attrition but does not establish causation. The Risk Score is a business-oriented analytical framework and has not been statistically validated as a predictive model.
 
-Future Improvements
+## Future Improvements
 
 Future improvements could include building a predictive attrition model using Python, applying logistic regression and machine-learning techniques, evaluating model performance using appropriate classification metrics, adding statistical significance testing, developing a more formally validated employee risk model, and automating the analysis and dashboard using Power BI.
 
-Conclusion
+## Conclusion
 
 This project demonstrates how HR data can be transformed into actionable insights using Excel. The analysis combines descriptive analytics, risk segmentation, and interactive visualization to identify potential retention priorities and support data-informed HR decisions.
