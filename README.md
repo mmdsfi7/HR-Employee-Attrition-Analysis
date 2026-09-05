@@ -195,6 +195,18 @@ The dashboard includes:
 - Attrition Rate by Risk Score
 - Interactive slicers for filtering the analysis
 
+### Dashboard Preview
+
+![HR Employee Attrition Dashboard](screenshots/Dashboard.png)
+
+### Risk Analysis
+
+![HR Employee Attrition Risk Analysis](screenshots/Risk-Analysis.png)
+
+### Insights & Recommendations
+
+![HR Employee Attrition Insights and Recommendations](screenshots/Insights.png)
+
 ---
 
 ## Tools & Skills
@@ -231,10 +243,9 @@ HR-Employee-Attrition-Analysis/
 │   └── HR_Employee_Attrition_Analysis.xlsx
 │
 ├── screenshots/
-│   └── dashboard.png
-│
-├── documentation/
-│   └── project_documentation.md
+│   ├── Dashboard.png
+│   ├── Risk-Analysis.png
+│   └── Insights.png
 │
 └── README.md
 ```
