@@ -201,7 +201,7 @@ The dashboard includes:
 
 ### Risk Analysis
 
-![HR Employee Attrition Risk Analysis](screenshots/Risk-Analysis.png)
+![HR Employee Attrition Risk Analysis](screenshots/Risk_Analysis.png)
 
 ### Insights & Recommendations
 
