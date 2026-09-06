@@ -206,7 +206,6 @@ The dashboard includes:
 ### Insights & Recommendations
 
 ![HR Employee Attrition Insights and Recommendations](screenshots/Insights.png)
-
 ---
 
 ## Tools & Skills
